@@ -2,6 +2,7 @@
   Olá, eu sou Leo! 
   <img src="https://raw.githubusercontent.com/Leocrs/Leocrs/main/assets/wave-hand.gif" width="40px" />
 </h1>
+<img src="https://raw.githubusercontent.com/Leocrs/Leocrs/main/assets/wave-hand.gif" width="40px" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
