@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />  
 </p>
 
 <p align="center">
