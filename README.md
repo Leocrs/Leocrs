@@ -10,16 +10,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/github/visitors/Leocrs/Leocrs?style=for-the-badge" alt="visitors"/>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
