@@ -1,43 +1,50 @@
 <h1 align="center">
-  Olá, eu sou Leo! 
-  <img src="https://raw.githubusercontent.com/Leocrs/Leocrs/main/assets/wave-hand.gif" width="40px" />
+  Olá, eu sou o Leonardo 👋
 </h1>
-<img src="https://raw.githubusercontent.com/Leocrs/Leocrs/main/assets/wave-hand.gif" width="40px" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />  
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://seuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/github/visitors/Leocrs/Leocrs?style=for-the-badge" alt="visitors"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leocrs&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leocrs&theme=radical" />
-</p>
+---
 
 ## 🚀 Sobre mim
 
 Sou desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código. Sempre buscando aprender algo novo e contribuir com projetos open-source.
 
-- 🎯 **Skills**: Python, JavaScript, React, Node.js
-- 🛠️ **Ferramentas**: VSCode, Git, Docker, Linux
-- 📚 **Estudando**: Inteligência Artificial e automação
+- 🎯 **Skills:** Python, JavaScript, React, Node.js  
+- 🛠️ **Ferramentas:** VSCode, Git, Docker, Linux  
+- 📚 **Estudando:** Inteligência Artificial e automação  
+
+---
 
 ## 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/leocrs/)
-- [Portfolio](https://seuportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Portfólio](https://seuportfolio.com)
 
-## ⭐ Projetos em destaque
+---
 
-- [Projeto 1](https://github.com/Leocrs/Projeto1) — Descrição do projeto 1
-- [Projeto 2](https://github.com/Leocrs/Projeto2) — Descrição do projeto 2
+## ⭐ Projetos em Destaque
+
+- **Projeto 1** — Descrição do projeto 1  
+- **Projeto 2** — Descrição do projeto 2  
+
+---
 
 ## 💡 Frase que me inspira
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." — Steve Jobs
+> "A única maneira de fazer um excelente trabalho é amar o que você faz."  
+> <em>— Steve Jobs</em>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Leocrs.Leocrs" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
