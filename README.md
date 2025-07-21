@@ -1,5 +1,6 @@
 <h1 align="center">
-  Olá, eu sou o Leonardo 👋
+  Olá, eu sou o Leonardo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 
 <p align="center">
