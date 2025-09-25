@@ -29,6 +29,8 @@ Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.
 ## 🛠 Languages and Tools
 
 <p align="center">
+  <img src="images/html5.svg" width="40" alt="HTML5"/>
+  <img src="images/css3.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -41,6 +43,21 @@ Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
   
 </p>
+
+---
+
+## 📋 Como Usar os Logos
+
+Para exibir os logos HTML5 e CSS3 em seu README ou documentação, utilize as seguintes tags:
+
+```markdown
+<img src="images/html5.svg" width="48" alt="HTML5 logo" />
+<img src="images/css3.svg" width="48" alt="CSS3 logo" />
+```
+
+### Exemplo de uso:
+<img src="images/html5.svg" width="48" alt="HTML5 logo" />
+<img src="images/css3.svg" width="48" alt="CSS3 logo" />
 
 ---
 
