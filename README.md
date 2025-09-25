@@ -17,7 +17,7 @@
 
 Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código. Sempre buscando aprender algo novo e contribuir com projetos open-source.
 
-- 🎯 **Skills:** Python, JavaScript, React, Node.js  
+- 🎯 **Skills:** Python, JavaScript, React, Node.js, HTML5, CSS3  
 - 🛠️ **Ferramentas:** VSCode, Git, Docker, Linux  
 - 📚 **Estudando:** Inteligência Artificial e automação  
 
